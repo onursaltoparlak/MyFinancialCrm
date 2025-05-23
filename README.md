@@ -1,4 +1,4 @@
-<b>MyFinancialCrm</b>
+MyFinancialCrm
 
 MyFinancialCrm, bireylerin ve küçük işletmelerin finansal işlemlerini ve müşteri ilişkilerini tek bir platformda yönetmelerini sağlayan bir CRM (Customer Relationship Management) uygulamasıdır. 
 C# dili ve Entity Framework 6.2.0 kullanılarak geliştirilmiştir.
@@ -16,6 +16,7 @@ Veri güvenliği ve yedekleme seçenekleri
 
 🛠️ Kurulum
 Bu depoyu klonlayın:
+
 git clone https://github.com/onursaltoparlak/MyFinancialCrm.git
 
 2. Visual Studio 2019 veya daha yeni bir sürümünü açın.
@@ -64,6 +65,7 @@ Bir Pull Request oluşturun.
 Herhangi bir soru veya öneriniz için benimle iletişime geçebilirsiniz:
 
 LinkedIn: Onursal Toparlak
+
 GitHub: @onursaltoparlak
 
 
