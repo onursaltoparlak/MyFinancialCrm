@@ -63,6 +63,7 @@ Bir Pull Request oluşturun.
 
 
 📞 İletişim
+
 Herhangi bir soru veya öneriniz için benimle iletişime geçebilirsiniz:
 
 LinkedIn: Onursal Toparlak
