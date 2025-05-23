@@ -4,6 +4,7 @@ MyFinancialCrm, bireylerin ve küçük işletmelerin finansal işlemlerini ve m�
 C# dili ve Entity Framework 6.2.0 kullanılarak geliştirilmiştir.
 
 🚀 Özellikler
+
 Müşteri bilgilerini ekleme, güncelleme ve silme
 
 Gelir ve gider takibi
