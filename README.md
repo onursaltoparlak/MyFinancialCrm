@@ -1,5 +1,13 @@
 MyFinancialCrm
 
+Uygulamaya Ait Görseller
+
+![user](https://github.com/user-attachments/assets/70aa6f6e-2166-4103-b4a4-47ad62152c12)
+![dashboard](https://github.com/user-attachments/assets/11c86fa4-b770-4b8c-8ec3-290192351b2f)
+![spendings](https://github.com/user-attachments/assets/ccc27818-ea99-48f0-8de7-b0d06c2b8e68)
+![banks](https://github.com/user-attachments/assets/7b9d6de5-8fec-4afa-941d-c0409a256acc)
+![categories](https://github.com/user-attachments/assets/c944ed38-b8a7-4010-9d17-44f8e2817a6f)
+
 MyFinancialCrm, bireylerin ve küçük işletmelerin finansal işlemlerini ve müşteri ilişkilerini tek bir platformda yönetmelerini sağlayan bir CRM (Customer Relationship Management) uygulamasıdır. 
 C# dili ve Entity Framework 6.2.0 kullanılarak geliştirilmiştir.
 
